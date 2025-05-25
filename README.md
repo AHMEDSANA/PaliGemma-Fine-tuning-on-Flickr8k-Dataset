@@ -107,8 +107,8 @@ DATA_DIR = "/path/to/flickr8k"
 # 5. Saves the trained model to /kaggle/working/PaliGemma_Fine_Tune_Flickr8k/ 
 #    (update location if running locally)
 
-Or
-you can just copy and paste the code from finetune-paligemma.ipynb to kaggle and add the dataset from the input option in kaggle and just run the code and it will execute.
+# Or
+# you can just copy and paste the code from finetune-paligemma.ipynb to kaggle and add the dataset from the input option in kaggle and just run the code and it will execute.
 ```
 
 ## 🔮 Inference

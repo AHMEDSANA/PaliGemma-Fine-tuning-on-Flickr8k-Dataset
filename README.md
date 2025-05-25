@@ -108,7 +108,7 @@ DATA_DIR = "/path/to/flickr8k"
 #    (update location if running locally)
 
 # Or
-# you can just copy and paste the code from finetune-paligemma.ipynb to kaggle and add the dataset from the input option in kaggle and just run the code and it will execute.
+# you can just copy and paste the code from finetune-paligemma.ipynb to kaggle notebook and add the dataset from the input option in kaggle and just run the code and it will execute.
 ```
 
 ## 🔮 Inference
